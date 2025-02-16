@@ -7,7 +7,8 @@ Cryptonize is a modern cryptocurrency portfolio tracker built with React.js, ena
 
 	🔗 Wallet Connection
 	
-		Securely connect your wallet using WalletConnect (Wagmi + RainbowKit) or manually input your wallet address.
+		Securely connect your wallet using WalletConnect (Wagmi + RainbowKit) or manually input your 
+  		wallet address.
 	
 		Compatible with Ethereum and Binance Smart Chain (BSC) networks.
 	
