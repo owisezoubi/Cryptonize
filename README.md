@@ -83,7 +83,8 @@ The app will be available at http://localhost:5173.
  
 	BSCScan & Etherscan API – Provides gas fee data for transactions.
  
-	WalletConnect (RainbowKit + Wagmi) – Enables secure wallet connections for Ethereum and Binance Smart Chain.
+	WalletConnect (RainbowKit + Wagmi) – Enables secure wallet connections for Ethereum and 
+ 	Binance Smart Chain.
 
 
 🎯 Future Enhancements
